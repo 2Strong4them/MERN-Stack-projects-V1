@@ -1,10 +1,11 @@
 # Project Name
 
 Simple Counter Project
+https://simplecounter-application.netlify.app/
 
 ## Description
 
-The purpose of this project is to create an application that allows users to increase, decrease, or reset a value.
+The purpose of this project was to create just a basic application that allows users to increase, decrease, or reset a value.
 
 - Clicking the "Increase" button increments the value by one.
 - Clicking the "Decrease" button decrements the value by one, including into negative values.
