@@ -1,6 +1,6 @@
 # Project Name
 
-Simple Counter Project
+Simple Counter Project Demo: <br>
 https://simplecounter-application.netlify.app/
 
 ## Description
